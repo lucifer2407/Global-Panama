@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+     "local_server": "True",
+     "local_uri": "mysql://root:@localhost/globalpanama",
+     "prod_uri": "mysql://root:@localhost/globalpanama",
+     "fb_url": "https://facebook.com/globalpanama",
+     "tw_url": "https://twitter.com/globalpanama",
+     "gh_url": "https://github.com/globalpanama",
+     "gmail-user":"siddhantkasture7@gmail.com",
+     "gmail-password":"ryanints"
+
+  },
+  "passwords":
+  {
+
+  }
+}
